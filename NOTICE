@@ -1,0 +1,20 @@
+DSA-cookbook: Modular Competitive Programming Toolkit  
+Copyright © 2025 Swastik (@iswastik3k)
+
+This repository is licensed under the Apache License, Version 2.0.  
+You may obtain a copy of the License at: https://www.apache.org/licenses/LICENSE-2.0
+
+This project includes original implementations, folder structures, and modular workflows authored by Swastik.  
+All contributions must preserve this NOTICE file and clearly document any modifications.
+
+Attribution is required for any redistribution, commercial use, or derivative work.  
+If you fork, extend, or repackage this repository, please retain the following:
+
+- Original author: Swastik (@iswastik3k)
+- Source repository: https://github.com/iswastik3k/DSA-cookbook
+- License: Apache 2.0
+
+This repository may include third-party snippets, references, or algorithms.  
+Where applicable, such components are attributed in their respective files or comments.
+
+For questions, contributions, or collaboration, feel free to reach out via GitHub Issues or Discussions.
