@@ -10,6 +10,7 @@ Crafted for competitive programming, team onboarding, and scalable contest prep.
 - DSA/
   - C++/
     - Arrays/
+    - Vectors/
 
 Each subfolder is designed to be self-contained, extensible, and contest-ready.  
 Future modules may include `DP/`, `Graphs/`, `Strings/`, and more.
