@@ -11,6 +11,7 @@ Crafted for competitive programming, team onboarding, and scalable contest prep.
   - C++/
     - Arrays/
     - Vectors/
+    - 2D_Arrays/
 
 Each subfolder is designed to be self-contained, extensible, and contest-ready.  
 Future modules may include `DP/`, `Graphs/`, `Strings/`, and more.
