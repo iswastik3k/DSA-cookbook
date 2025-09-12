@@ -1,6 +1,6 @@
 # DSA-cookbook
 
-A modular, reproducible toolkit for mastering Data Structures and Algorithms in C++.  
+A modular, reproducible toolkit for mastering Data Structures & Algorithms in C++.  
 Crafted for competitive programming, team onboarding, and scalable contest prep.
 
 ---
