@@ -15,7 +15,8 @@ DSA/
     ├── 2D_Arrays/
     ├── Strings/
     └── Recursion/
-        └── Recursion_01/
+        ├── Recursion_01/
+        └── Recursion_02/
 ```
 
 Each subfolder is designed to be self-contained, extensible, and contest-ready.  
