@@ -14,9 +14,12 @@ DSA/
     ├── Vectors/
     ├── 2D_Arrays/
     ├── Strings/
-    └── Recursion/
-        ├── Recursion_01/
-        └── Recursion_02/
+    ├── Recursion/
+    │    ├── Recursion_01/
+    │    ├── Recursion_02/
+    │    └── Recursion_03/
+    └── Binary_Search/
+
 ```
 
 Each subfolder is designed to be self-contained, extensible, and contest-ready.  
