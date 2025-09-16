@@ -19,7 +19,8 @@ DSA/
     │    ├── Recursion_02/
     │    └── Recursion_03/
     │
-    └── Binary_Search/
+    ├── Binary_Search/
+    └── Sorting/
 ```
 
 Each subfolder is designed to be self-contained, extensible, and contest-ready.  
