@@ -1,4 +1,4 @@
-// Maze Path - 2
+// Maze Path - II
 
 // Print unique ways to reach from cell (1,1) to cell (m.n) of an m x n grid.
 

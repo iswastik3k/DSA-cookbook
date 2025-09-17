@@ -63,8 +63,6 @@ int main() {
         }
     }
 
-    cout << 5;
-
     nextPermutation(v, piv);
 
     cout << "Next permutation of your number is : ";

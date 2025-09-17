@@ -4,6 +4,7 @@
 
 #include <iostream>
 #include <string>
+#include <chrono>
 using namespace std;
 
 void permutation(string org, string res) {
@@ -24,6 +25,9 @@ int main() {
     string s;
     cout << "Enter the string : ";
     cin >> s;
-
+    auto start = chrono::high_resolution_clock::now();
     permutation(s, "");
+    auto end = chrono::high_resolution_clock::now();
+
+    cout << "Time: " << chrono::duration_cast<chrono::milliseconds>(end - start).count() << " ms\n";
 }

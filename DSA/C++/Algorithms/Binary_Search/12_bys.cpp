@@ -22,11 +22,11 @@ int main() {
     cin >> n;
 
     vector<int> time(n);
-    int mx = 0, mn = INT_MAX;
+    int mx = 100, mn = INT_MAX;
     cout << "Enter time taken by each bus for 1 trip : ";
     for (int i = 0; i < n; ++i) {
         cin >> time[i];
-        mx = max(mx, time[i]);
+        mx = min(mx, time[i]);
     }
 
     int totaltrips;

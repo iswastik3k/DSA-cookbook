@@ -1,10 +1,10 @@
-// Leetcode - x / Rotate a vector by k elements.
+// Leetcode - 189 / Rotate a vector by k steps.
 
 // Rotation by "k" steps -> Put "k" elements from end at start.
 
 // Example : v = {1, 2, 3, 4, 5}
 // k = 2
-// Rotated vector v by "k" = {4, 5, 1, 2, 3} 
+// Rotated vector v by "k" = {4, 5, 1, 2, 3}
 
 // Rotate by "n" steps = Same as orignal vector.
 // That's why use "k = k % n" for k > n.
