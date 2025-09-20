@@ -9,7 +9,7 @@ Crafted for competitive programming, team onboarding, and scalable contest prep.
 
 ```
 DSA/
-├── PracticeSets
+├── PracticeSets/
 │   └── Set(x)/
 │       ├── Questions.md
 │       ├── Sols/
