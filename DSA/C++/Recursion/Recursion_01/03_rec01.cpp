@@ -1,7 +1,7 @@
 
 /*                 -: Some Gyaan on Recursion :-
 
-    You can flirt with recursion in two ways :
+    You can cook with recursion in two ways :
 
     Way 1 : Top-Down / Pre-Order Recursion.
 
