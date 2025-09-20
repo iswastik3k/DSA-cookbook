@@ -10,17 +10,22 @@ Crafted for competitive programming, team onboarding, and scalable contest prep.
 ```
 DSA/
 └── C++/
-    ├── Arrays/
-    ├── Vectors/
-    ├── 2D_Arrays/
-    ├── Strings/
-    ├── Recursion/
-    │    ├── Recursion_01/
-    │    ├── Recursion_02/
-    │    └── Recursion_03/
+    ├── Data_Structures/
+    │   ├── Arrays/
+    │   ├── Vectors/
+    │   ├── 2D_Arrays/
+    │   └── Strings/
     │
-    ├── Binary_Search/
-    └── Sorting/
+    ├── Algorithms/
+    │   ├── Binary_Search/
+    │   ├── Sorting/
+    │   ├── Sorting_Adv/
+    │   └── Prefix_Sum/
+    │
+    └── Recursion/
+        ├── Recursion_01/
+        ├── Recursion_02/
+        └── Recursion_03/
 ```
 
 Each subfolder is designed to be self-contained, extensible, and contest-ready.  
