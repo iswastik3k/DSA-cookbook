@@ -9,6 +9,12 @@ Crafted for competitive programming, team onboarding, and scalable contest prep.
 
 ```
 DSA/
+├── PracticeSets
+│   └── Set(x)/
+│       ├── Questions.md
+│       ├── Sols/
+│       └── README.md
+│
 └── C++/
     ├── Data_Structures/
     │   ├── Arrays/
