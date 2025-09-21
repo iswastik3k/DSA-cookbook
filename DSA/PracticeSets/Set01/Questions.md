@@ -2,6 +2,10 @@
 
 ### Topics: Arrays / Vectors / Matrices
 ---
-- P01. [Leetcode 189 — Rotate Array / M](https://leetcode.com/problems/rotate-array/description/) | [Solution](Sols/Sol01.md)
-- P02. [Leetcode 75 — Sort Colors / M](https://leetcode.com/problems/sort-colors/description/) | [Solution](Sols/Sol02.md)
-- P03. [Leetcode 88 — Merge Sorted Array / E](https://leetcode.com/problems/merge-sorted-array/description/) | [Solution](Sols/Sol03.md)
+
+| ID   | Problem                             | Difficulty | Solution Link       |
+|-------|-----------------------------------|------------|--------------------|
+| P01  | [Leetcode 189 — Rotate Array](https://leetcode.com/problems/rotate-array/description/)         | M          | [Sol01](Sols/Sol01.md) |
+| P02  | [Leetcode 75 — Sort Colors](https://leetcode.com/problems/sort-colors/description/)           | M          | [Sol02](Sols/Sol02.md) |
+| P03  | [Leetcode 88 — Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | E          | [Sol03](Sols/Sol03.md) |
+| P04  | [Leetcode 42 — Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | H          | [Sol04](Sols/Sol04.md) |
