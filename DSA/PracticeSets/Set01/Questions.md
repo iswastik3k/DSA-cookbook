@@ -14,3 +14,6 @@
 | P07  | [Leetcode 48 — Rotate Image](https://leetcode.com/problems/rotate-image/description/)           | M          | [Sol07](Sols/Sol07.md) |
 | P08  | [Leetcode 54 — Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)         | M          | [Sol08](Sols/Sol08.md) |
 | P09  | [Leetcode 118 — Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)             | E          | [Sol09](Sols/Sol09.md) |
+| P10  | [Leetcode 861 — Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/) | M | [Sol10](Sols/Sol10.md) |
+| P11  | [Leetcode 240 — Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | M | [Sol11](Sols/Sol11.md) |
+| P12  | [Leetcode 119 — Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | E | [Sol12](Sols/Sol12.md) |
