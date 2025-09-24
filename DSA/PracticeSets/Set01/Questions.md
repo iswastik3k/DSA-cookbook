@@ -28,6 +28,8 @@
 
 | ID   | Problem                                                                 | Difficulty | Algorithm                     | Solution Link                  |
 |------|-------------------------------------------------------------------------|------------|-------------------------------|---------------------------------|
-| P01  | [Leetcode 704 — Binary Search](https://leetcode.com/problems/binary-search/description/)         | E          | —                             | [Sol01](Sols/Sec-02/Sol01.md)   |
+| P01  | [Leetcode 704 — Binary Search](https://leetcode.com/problems/binary-search/description/)         | E          | Binary Search                             | [Sol01](Sols/Sec-02/Sol01.md)   |
 | P02  | [Leetcode 69 — Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                         | E          | Binary Search on Answer Set   | [Sol02](Sols/Sec-02/Sol02.md)   |
-| P03  | [Leetcode 852 — Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | M          | —                             | [Sol03](Sols/Sec-03/Sol01.md)   |
+| P03  | [Leetcode 852 — Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | M          | Binary Search                             | [Sol03](Sols/Sec-03/Sol01.md)   |
+
+---
