@@ -20,7 +20,7 @@
 | P10  | [Leetcode 861 — Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/) | M          | [Sol10](Sols/Section01/Sol10.md)   |
 | P11  | [Leetcode 240 — Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | M          | [Sol11](Sols/Section01/Sol11.md)   |
 | P12  | [Leetcode 119 — Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | E          | [Sol12](Sols/Section01/Sol12.md)   |
-
+| P13  | [Leetcode 136 — Single Number](https://leetcode.com/problems/single-number/description/) | E          | [Sol13](Sols/Section01/Sol13.md)   |
 ---
 
 ## 🧠 Section - 02 / Key Algorithms and Patterns  
@@ -34,5 +34,7 @@
 | P04  | [Leetcode 1480 — Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)                         | E          | Prefix Sum                   | [Sol04](Sols/Section02/Sol04.md)   |
 | P05  | [Leetcode 33 — Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)         | M          | Confined Binary Search       | [Sol05](Sols/Section02/Sol05.md)   |
 | P06  | [Leetcode 238 — Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)             | M          | Prefix / Suffix Product Arrays | [Sol06](Sols/Section02/Sol06.md)   |
+| P07  | [Leetcode 633 — Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)                         | M          | Two Pointers           | [Sol07](Sols/Section02/Sol07.md)   |
+| P08  | [Leetcode 169 — Majority Element](https://leetcode.com/problems/majority-element/description/)         | E          |Boyer-Moore's Voting Algorithm      | [Sol08](Sols/Section02/Sol08.md)   |
 
 ---
