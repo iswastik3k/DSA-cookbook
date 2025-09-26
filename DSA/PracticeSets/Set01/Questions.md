@@ -35,6 +35,6 @@
 | P05  | [Leetcode 33 — Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)         | M          | Confined Binary Search       | [Sol05](Sols/Section02/Sol05.md)   |
 | P06  | [Leetcode 238 — Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)             | M          | Prefix / Suffix Product Arrays | [Sol06](Sols/Section02/Sol06.md)   |
 | P07  | [Leetcode 633 — Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)                         | M          | Two Pointers           | [Sol07](Sols/Section02/Sol07.md)   |
-| P08  | [Leetcode 169 — Majority Element](https://leetcode.com/problems/majority-element/description/)         | E          |Boyer-Moore's Voting Algorithm      | [Sol08](Sols/Section02/Sol08.md)   |
+| P08  | [Leetcode 169 — Majority Element](https://leetcode.com/problems/majority-element/description/)         | E          |Moore's Voting Algorithm      | [Sol08](Sols/Section02/Sol08.md)   |
 
 ---
