@@ -39,3 +39,29 @@
 | P19 | [Leetcode 238 — Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)     | M          | Prefix / Suffix Product Arrays        | [Sol19](Sols/Sol19.md) | - [ ]  |
 | P20 | [Leetcode 633 — Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)                   | M          | Two-Pointer + Square Check            | [Sol20](Sols/Sol20.md) | - [ ]  |
 | P21 | [Leetcode 169 — Majority Element](https://leetcode.com/problems/majority-element/description/)                             | E          | Boyer-Moore Voting                    | [Sol21](Sols/Sol21.md) | - [ ]  |
+
+---
+
+## ✅ Progress Tracker
+
+- [ ] P01 — Rotate Array
+- [ ] P02 — Sort Colors
+- [ ] P03 — Merge Sorted Array
+- [ ] P04 — Trapping Rain Water
+- [ ] P05 — Next Permutation
+- [ ] P06 — Transpose Matrix
+- [ ] P07 — Rotate Image
+- [ ] P08 — Spiral Matrix
+- [ ] P09 — Pascal's Triangle
+- [ ] P10 — Score After Flipping Matrix
+- [ ] P11 — Search a 2D Matrix II
+- [ ] P12 — Pascal's Triangle II
+- [ ] P13 — Single Number
+- [ ] P14 — Binary Search
+- [ ] P15 — Sqrt(x)
+- [ ] P16 — Peak Index in Mountain Array
+- [ ] P17 — Running Sum of 1D Array
+- [ ] P18 — Search in Rotated Sorted Array
+- [ ] P19 — Product of Array Except Self
+- [ ] P20 — Sum of Square Numbers
+- [ ] P21 — Majority Element
