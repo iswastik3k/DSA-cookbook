@@ -22,4 +22,4 @@
 | P02 | [Leetcode 876 — Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)               | E          | Fast & Slow Pointer Technique                 | [Sol02](Sols/Sol02.md) |
 | P03 | [Leetcode 19 — Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  | M          | Two-Pointer with Dummy Node                   | [Sol03](Sols/Sol03.md) |
 | P04 | [Leetcode 160 — Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | E          | Two-Pointer Pointer Switching                 | [Sol04](Sols/Sol04.md) |
-| P05 | [Leetcode 141 — Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                               | E          | Fast & Slow Pointer (Floyd’s Cycle Detection) | [Sol05](Sols/Sol05.md) |
+| P05 | [Leetcode 141 — Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                               | E          | Floyd’s Cycle Detection                       | [Sol05](Sols/Sol05.md) |
