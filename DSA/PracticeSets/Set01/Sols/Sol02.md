@@ -5,10 +5,12 @@
 Achieves O(n) time and O(1) space complexity.
 
 Partition the array into three groups (0s, 1s, 2s) in one pass:
+
 - Use three pointers: `z` (0-boundary), `i` (current), and `e` (2-boundary).
 - Swap elements to group colors efficiently.
 
 ### 🧾 Code
+
 ```cpp
 class Solution {
 public:
@@ -25,3 +27,4 @@ public:
         }
     }
 };
+```

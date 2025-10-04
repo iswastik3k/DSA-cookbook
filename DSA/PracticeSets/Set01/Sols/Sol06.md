@@ -3,19 +3,23 @@
 ### 🧠 Algorithm Used: Matrix Transposition via Index Swapping
 
 This problem uses a simple index swap to transpose a matrix:
+
 - For a matrix of size `n × m`, the transposed matrix will be `m × n`.
 - Swap `res[i][j] = matrix[j][i]` to flip rows and columns.
 
 ### 🧪 Edge Cases
+
 - Empty matrix: return empty.
 - Single row or column: still valid transpose.
 - Square matrix: dimensions remain unchanged.
 
 ### 📈 Complexity
+
 - Time: O(n × m)
 - Space: O(n × m)
 
 ### 🧾 Code
+
 ```cpp
 class Solution {
 public:
@@ -36,3 +40,4 @@ public:
         return res;
     }
 }
+```

@@ -3,22 +3,26 @@
 ### 🧠 Algorithm Used: Confined Binary Search
 
 This problem searches for a target in a rotated sorted array using modified binary search:
+
 - At each step, determine which half is sorted.
 - Narrow the search space based on whether the target lies within the sorted half.
 
 This avoids linear scan and handles rotation elegantly.
 
 ### 🧪 Edge Cases
+
 - Empty array: return -1.
 - Target not present: return -1.
 - No rotation (fully sorted): behaves like classic binary search.
 - Rotation at boundaries: test pivot at start or end.
 
 ### 📈 Complexity
+
 - Time: O(log n)
 - Space: O(1)
 
 ### 🧾 Code
+
 ```cpp
 class Solution {
 public:
@@ -53,3 +57,4 @@ public:
         return -1;  // target not found
     }
 };
+```

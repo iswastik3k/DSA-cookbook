@@ -3,16 +3,19 @@
 ### 🧠 Algorithm Used: Lexicographic Permutation via Pivot + Swap + Sort
 
 This algorithm finds the next lexicographically greater permutation by:
+
 1. Scanning from the end to find the first decreasing element (`pivot`).
 2. Swapping it with the smallest element greater than it on the right.
 3. Sorting (or reversing) the suffix to get the minimal next configuration.
 
 ### 🧪 Edge Cases
+
 - Already highest permutation: reverse entire array.
 - Single element: no change.
 - Strictly decreasing array: reverse to lowest permutation.
 
 ### 🧾 Code
+
 ```cpp
 class Solution {
 public:
@@ -46,3 +49,4 @@ public:
         sort(nums.begin() + pividx + 1, nums.end());
     }
 };
+```

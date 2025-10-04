@@ -3,21 +3,25 @@
 ### 🧠 Algorithm Used: Iterative Construction via Binomial Identity
 
 This problem builds Pascal’s Triangle row by row using the identity:
+
 - Each element is the sum of the two directly above it:  
   `row[j] = prev_row[j - 1] + prev_row[j]`
 
 The first and last elements of each row are always `1`.
 
 ### 🧪 Edge Cases
+
 - `numRows = 0`: return empty triangle.
 - `numRows = 1`: single row with one element.
 - Large `numRows`: memory grows quadratically.
 
 ### 📈 Complexity
+
 - Time: O(numRows²)
 - Space: O(numRows²)
 
 ### 🧾 Code
+
 ```cpp
 class Solution {
 public:
@@ -41,3 +45,4 @@ public:
         return pscl;
     }
 };
+```

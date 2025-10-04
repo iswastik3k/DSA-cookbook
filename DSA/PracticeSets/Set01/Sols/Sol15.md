@@ -3,6 +3,7 @@
 ### 🧠 Algorithm Used: Binary Search on Answer Set
 
 This problem finds the integer square root of `x` using binary search:
+
 - Search space is `[0, x]`.
 - At each step, check if `m * m == x`.
 - If not a perfect square, return the floor of the square root (i.e., lower bound).
@@ -10,15 +11,18 @@ This problem finds the integer square root of `x` using binary search:
 Using `long long` avoids overflow when squaring `m`.
 
 ### 🧪 Edge Cases
+
 - `x = 0` or `x = 1`: return `x` directly.
 - Large `x`: must avoid overflow.
 - Non-perfect square: return floor of √x.
 
 ### 📈 Complexity
+
 - Time: O(log x)
 - Space: O(1)
 
 ### 🧾 Code
+
 ```cpp
 class Solution {
 public:
@@ -41,3 +45,4 @@ public:
         return e;
     }
 };
+```

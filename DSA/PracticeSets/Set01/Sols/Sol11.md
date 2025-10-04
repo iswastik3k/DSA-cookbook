@@ -3,10 +3,12 @@
 ### 🧠 Algorithm Used: Staircase Search (Top-Right Traversal)
 
 This problem leverages the sorted nature of the matrix:
+
 - Each row is sorted left to right.
 - Each column is sorted top to bottom.
 
 Start from the top-right corner: (You can also start from bottom left and update traversal conditions)
+
 - If current element > target → move left.
 - If current element < target → move down.
 - If equal → return true.
@@ -14,15 +16,18 @@ Start from the top-right corner: (You can also start from bottom left and update
 This greedy traversal avoids scanning the entire matrix.
 
 ### 🧪 Edge Cases
+
 - Empty matrix: return false.
 - Target smaller than all elements: return false.
 - Target larger than all elements: return false.
 
 ### 📈 Complexity
+
 - Time: O(m + n)
 - Space: O(1)
 
 ### 🧾 Code
+
 ```cpp
 class Solution {
 public:
@@ -46,3 +51,4 @@ public:
         return false;
     }
 };
+```

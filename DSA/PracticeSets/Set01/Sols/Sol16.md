@@ -3,6 +3,7 @@
 ### 🧠 Algorithm Used: Binary Search on Unimodal Array
 
 This problem finds the peak index in a mountain array using binary search:
+
 - A mountain array increases then decreases.
 - If `arr[m] < arr[m+1]`, peak lies to the right.
 - Else, peak lies to the left or is at `m`.
@@ -10,15 +11,18 @@ This problem finds the peak index in a mountain array using binary search:
 This avoids linear scan and achieves logarithmic time.
 
 ### 🧪 Edge Cases
+
 - Peak at start or end: not possible (guaranteed mountain).
 - Strictly increasing or decreasing: invalid input.
 - Smallest valid mountain: size 3.
 
 ### 📈 Complexity
+
 - Time: O(log n)
 - Space: O(1)
 
 ### 🧾 Code
+
 ```cpp
 class Solution {
 public:
@@ -38,3 +42,4 @@ public:
         return e;              // s == e → peak index
     }
 };
+```

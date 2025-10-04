@@ -3,6 +3,7 @@
 ### 🧠 Algorithm Used: Boyer-Moore Majority Vote
 
 This problem finds the element that appears more than ⌊n/2⌋ times:
+
 - Maintain a candidate and a counter.
 - Increment counter if current element matches candidate.
 - Decrement otherwise. If counter drops to 0, switch candidate.
@@ -10,15 +11,18 @@ This problem finds the element that appears more than ⌊n/2⌋ times:
 This greedy strategy guarantees correctness due to the majority constraint.
 
 ### 🧪 Edge Cases
+
 - Single element: return that element.
 - Majority at end: algorithm still converges.
 - All elements same: trivially returns that value.
 
 ### 📈 Complexity
+
 - Time: O(n)
 - Space: O(1)
 
 ### 🧾 Code
+
 ```cpp
 class Solution {
 public:
@@ -43,3 +47,4 @@ public:
         return majele;               // final candidate is the majority
     }
 };
+```

@@ -3,16 +3,19 @@
 ### 🧠 Algorithm Used: Two Pointers from End
 
 Merge two sorted arrays starting from the back to avoid overwriting elements:
+
 - Use pointers `i` and `j` at the ends of arrays `nums1` and `nums2`.
 - Place larger elements at the end of `nums1` and decrement pointers.
 
 Achieves O(n) time and O(1) space complexity.
 
 ### 🧪 Edge Cases
+
 - Empty `nums2`: no action needed.
 - Overlapping ranges: handled by backward traversal.
 
 ### 🧾 Code
+
 ```cpp
 class Solution {
 public:
@@ -30,3 +33,4 @@ public:
         }
     }
 };
+```

@@ -3,17 +3,20 @@
 ### 🧠 Algorithm Used: Prefix Max Arrays (Two-Pass Preprocessing)
 
 This approach precomputes the maximum height to the left and right of each bar:
+
 1. Build a prefix array `pfx[i]` that stores the minimum of left and right max heights.
 2. Traverse the array to calculate trapped water at each index using `pfx[i] - height[i]`.
 
 This avoids stack or two-pointer tricks and gives a clean O(n) solution.
 
 ### 🧪 Edge Cases
+
 - Empty array or size < 3: No trapping possible.
 - Flat terrain: All heights equal → zero water.
 - Peaks at edges: Water trapped only between valleys.
 
 ### 🧾 Code
+
 ```cpp
 class Solution {
 public:
@@ -48,3 +51,4 @@ public:
         return water;
     }
 };
+```

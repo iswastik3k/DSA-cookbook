@@ -3,19 +3,23 @@
 ### 🧠 Algorithm Used: Combinatorics via Optimized nCr
 
 This problem generates the `rowIndex`-th row of Pascal’s Triangle using the binomial coefficient:
+
 - Each element is `nCr(rowIndex, j)` for `j = 0` to `rowIndex`.
 - Avoids factorials by computing nCr iteratively in O(r) time.
 
 ### 🧪 Edge Cases
+
 - `rowIndex = 0`: single element `[1]`.
 - Large `rowIndex`: risk of overflow if not using `long long`.
 - Triangle symmetry: row is symmetric around center.
 
 ### 📈 Complexity
+
 - Time: O(rowIndex)
 - Space: O(rowIndex)
 
 ### 🧾 Code
+
 ```cpp
 class Solution {
 public:
@@ -38,3 +42,4 @@ public:
         return res;
     }
 };
+```

@@ -3,20 +3,24 @@
 ### 🧠 Algorithm Used: Greedy Bit Maximization via Row + Column Flips
 
 This problem maximizes the binary row scores by:
+
 1. Flipping rows to ensure the first column is all 1s (most significant bit).
 2. Flipping columns where 0s outnumber 1s to maximize total contribution.
 3. Calculating the final score by interpreting each row as a binary number.
 
 ### 🧪 Edge Cases
+
 - All 1s: no flips needed.
 - All 0s: full row and column flips.
 - Mixed bits: greedy strategy ensures optimal score.
 
 ### 📈 Complexity
+
 - Time: O(n × m)
 - Space: O(1) (in-place flips)
 
 ### 🧾 Code
+
 ```cpp
 class Solution {
 public:
@@ -62,3 +66,4 @@ public:
         return res;
     }
 };
+```

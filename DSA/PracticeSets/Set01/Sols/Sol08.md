@@ -3,21 +3,25 @@
 ### 🧠 Algorithm Used: Layer-by-Layer Simulation
 
 This problem simulates spiral traversal by maintaining four boundaries:
+
 - `rs` and `re`: row start and end
 - `cs` and `ce`: column start and end
 
 We traverse the matrix in four directions—right, down, left, up—shrinking the boundaries after each layer.
 
 ### 🧪 Edge Cases
+
 - Empty matrix: return empty.
 - Single row or column: linear traversal.
 - Non-square matrix: spiral still valid.
 
 ### 📈 Complexity
+
 - Time: O(n × m)
 - Space: O(n × m) (for result vector)
 
 ### 🧾 Code
+
 ```cpp
 class Solution {
 public:
@@ -61,3 +65,4 @@ public:
         return res;
     }
 };
+```
