@@ -1,7 +1,5 @@
-## 🚀 DSA PRACTICE SHEET - APNA COLLEGE
-
+# 🚀 DSA PRACTICE SHEET - APNA COLLEGE
 ---
-
 ### 🔹 Section 01 - Arrays I
 
 | ID     | Problem                                                                                                | Difficulty | Technique / Pattern   | Solution Link              |
